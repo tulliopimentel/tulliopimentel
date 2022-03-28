@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 
-- 🔭 I’m currently working on Data Analysis and Back-End with Spring
-- 🌱 I’m currently learning Spring and Java
+- 🔭 I’m currently working on Backend with Java, Spring Boot, SQL, and GIT
+- 🌱 I’m currently a Junior Backend Developer
 - 📫 How to reach me: https://www.linkedin.com/in/tulliopimentelbarbosa/
 
 <div align="center">
