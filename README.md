@@ -1,6 +1,6 @@
 ### Hello, world! 👋
 
-- 🔭 I’m currently working on Backend with Python, AWS and GIT
+- 🔭 I’m currently working on Backend with Python, AWS, Dot Net and GIT
 - 🌱 I’m currently a Junior Java Backend Developer
 - 📫 How to reach me: https://www.linkedin.com/in/tulliopimentelbarbosa/
 
