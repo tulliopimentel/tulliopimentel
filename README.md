@@ -1,7 +1,7 @@
 ### Hello, world! 👋
 
 - 🔭 I’m currently working on Backend with Python, AWS, Dot Net and GIT
-- 🌱 I’m currently a Junior Java Backend Developer
+- 🌱 I’m currently a Software Engineer in Itau Unibanco
 - 📫 How to reach me: https://www.linkedin.com/in/tulliopimentelbarbosa/
 
 <div align="center">
